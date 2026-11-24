@@ -1,0 +1,12 @@
+[
+  {"id": "P001", "weight": 4, "value": 40, "priority": 8, "deadline": 2, "destination": "A"},
+  {"id": "P002", "weight": 3, "value": 35, "priority": 9, "deadline": 1, "destination": "B"},
+  {"id": "P003", "weight": 5, "value": 50, "priority": 7, "deadline": 3, "destination": "C"},
+  {"id": "P004", "weight": 2, "value": 25, "priority": 6, "deadline": 1, "destination": "A"},
+  {"id": "P005", "weight": 6, "value": 55, "priority": 5, "deadline": 4, "destination": "D"},
+  {"id": "P006", "weight": 3, "value": 30, "priority": 8, "deadline": 2, "destination": "B"},
+  {"id": "P007", "weight": 4, "value": 45, "priority": 9, "deadline": 1, "destination": "C"},
+  {"id": "P008", "weight": 7, "value": 60, "priority": 4, "deadline": 5, "destination": "E"},
+  {"id": "P009", "weight": 2, "value": 20, "priority": 7, "deadline": 3, "destination": "D"},
+  {"id": "P010", "weight": 5, "value": 48, "priority": 6, "deadline": 2, "destination": "E"}
+]

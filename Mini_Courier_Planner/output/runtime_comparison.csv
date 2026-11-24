@@ -1,0 +1,4 @@
+TestCase,Sorting,Knapsack,Dijkstra,TSP,Total
+"Small (10 parcels)",0.000022,0.000109,0.000028,0.000161,0.000320
+"Medium (25 parcels)",0.000024,0.000247,0.000022,0.000099,0.000392
+"Medium-Large (25 parcels, higher capacity)",0.000017,0.000231,0.000037,0.000149,0.000434

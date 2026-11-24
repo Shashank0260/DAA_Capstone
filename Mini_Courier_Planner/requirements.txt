@@ -1,0 +1,4 @@
+# Mini-Courier Planner - Dependencies
+# Core functionality requires only Python standard library.
+# Optional for runtime chart generation:
+matplotlib>=3.5.0
